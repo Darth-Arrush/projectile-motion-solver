@@ -1,5 +1,5 @@
 /*Solves projectile motion questions given inputs.*/
-package main
+package projectilemotion
 
 import (
 	"fmt"
